@@ -1,7 +1,7 @@
-import sys  # Ladataan sys- moduli
-import random  # Ladataan random- moduli
-import string  # Ladataan string- moduli
-import pickle  # Ladataan pickle- moduli
+import sys  # Ladataan sys- kirjasto
+import random  # Ladataan random- kirjasto
+import string  # Ladataan string- kirjasto
+import pickle  # Ladataan pickle- kirjasto
 
 
 def menu():  # Valikon tulostus
